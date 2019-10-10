@@ -1,3 +1,11 @@
+/**
+ * 
+ * @author Don Thomas
+ * Class ID: 70642 (Wednesday 9:40-10:30am)
+ * Assignment 2
+ *
+ */
+
 package cse360assign2;
 
 public class AddingMachine {
