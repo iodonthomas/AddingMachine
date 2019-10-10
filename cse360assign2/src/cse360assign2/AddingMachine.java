@@ -6,7 +6,7 @@ public class AddingMachine {
 	private String history;
 	
 	public AddingMachine () {
-		total = 0;  // not needed - included for clarity
+		total = 0;  
 		history = "0";
 	}
 	
@@ -29,7 +29,8 @@ public class AddingMachine {
 	}
 	
 	public void clear() {
-		
+		total = 0;
+		history = "0";
 	}
 	
 }
